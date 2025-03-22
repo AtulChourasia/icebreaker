@@ -1,0 +1,4 @@
+langchain
+langchainhub
+langchain-community
+langchain-openai
